@@ -49,7 +49,7 @@ Historical Loan Behavior: Linked past approvals/refusals with current default te
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-- Jupyter Notebook for analysis and visualization
+- Jupyter Notebook for analysis and visualization (Hosted on Google Colab)
 
 - Dataset: Home Credit Default Risk (Kaggle)
 
